@@ -1,0 +1,41 @@
+
+/*This css is responsible for the table background color*/
+/*
+.tablehbg{
+	background-color:#4d79ff;
+}
+*/
+
+/*This css is responsible for the grey bg color*/
+.bg-primary{
+	color:#000;
+	background-color:#fff;
+	}
+	
+.bg-light-gray{
+	background-color: #f7f7f7;
+	}
+	
+.team-member {
+    margin-bottom: 50px;
+    /*text-align: center; */
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.portfolio{
+	margin-bottom: 25px;
+}
+
+.jumbotron{
+	background-color: #fff;
+}
+
+body {
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+}
